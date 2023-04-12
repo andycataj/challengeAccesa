@@ -1,0 +1,69 @@
+#joc{
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+    margin: 0 auto;
+    display:block;
+    padding: 60px 20px;
+    width: 600px; 
+    height: 300px;
+}
+
+.lumini{
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+    display: flex;
+  }
+
+#joc button{
+  border: 0;
+  padding: 10px 10px;
+  background-color: #ff9600;
+  color: #293c42;
+  font-weight:bold;
+  font-size: 18px;
+}
+
+#light1 {
+    border-radius: 50%;
+    width: 200px; 
+    height: 200px; 
+    background-color: #eee;
+    margin: 0 auto;
+}
+
+#light2 {
+  border-radius: 50%;
+  width: 200px; 
+  height: 200px; 
+  background-color: #eee;
+  margin: 0 auto;
+}
+#light3 {
+  border-radius: 50%;
+  width: 200px; 
+  height: 200px; 
+  background-color: #eee;
+  margin: 0 auto;
+}
+#light4 {
+  border-radius: 50%;
+  width: 200px; 
+  height: 200px; 
+  background-color: #eee;
+  margin: 0 auto;
+}
+#light5 {
+  border-radius: 50%;
+  width: 200px; 
+  height: 200px; 
+  background-color: #eee;
+  margin: 0 auto;
+}
+
+#timer{
+  color: #eee;
+  font-weight: bold;
+}
+  
